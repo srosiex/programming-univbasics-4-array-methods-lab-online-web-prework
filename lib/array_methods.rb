@@ -1,5 +1,5 @@
 def using_include(array, element)
-using_include.include?("learning")
+using_include.include?("wow")
 end
 
 def using_sort(array)
